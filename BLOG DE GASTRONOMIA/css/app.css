@@ -2,7 +2,7 @@ body{
     background-image:url("../img/fondo.jpg");
     background-attachment: fixed;
     background-repeat: no-repeat;}
-#contenedor{background:rgba(84,71,44, 0.8);}
+#contenedor{background:rgba(10,100,66, 0.2);}
 #colI, #colE{background-color:cadetblue; padding: 5px;border-radius: 5px;}
 h1,h2,h3,h5,h6,p,label,dt{color:midnightblue; }
 p{margin-top: 10px;}
